@@ -1,0 +1,12 @@
+@mixin btn{
+    font-family: var(--font-family);
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 139%;
+    text-align: center;
+    color: #fefcf7;
+    border-radius: 6px;
+    background-color: #0e8784;
+    padding: 15px 31px;
+    border:none;
+}
